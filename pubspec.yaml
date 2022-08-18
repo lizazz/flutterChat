@@ -29,6 +29,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  scoped_model: 1.1.0
+  path_provider: ^2.0.11
+  flutter_socket_io: ^0.6.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -87,3 +90,8 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  assets:
+    - C:\Users\slavik\StudioProjects\flutterChat\assets\private.png
+    - C:\Users\slavik\StudioProjects\flutterChat\assets\public.png
+    - C:\Users\slavik\StudioProjects\flutterChat\assets\drawback01.jpg
+    - C:\Users\slavik\StudioProjects\flutterChat\assets\user.png
